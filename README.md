@@ -10,17 +10,17 @@
 ## Imagens do jogo:
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77989757/132741938-69e2fadd-f776-44d4-ae81-61e856a4a051.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/77989757/155764679-4017bbde-d1ab-419f-8093-5facb215e776.png" width="800px" />
 </div>
 
 <hr/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77989757/132741938-69e2fadd-f776-44d4-ae81-61e856a4a051.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/77989757/155764685-60816409-4f43-4eb1-8e7c-337502a065f6.png" width="800px" />
 </div>
 
 <hr/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77989757/132741938-69e2fadd-f776-44d4-ae81-61e856a4a051.png" width="800px" />
+<img src="https://user-images.githubusercontent.com/77989757/155764690-df20fd85-07cf-4d53-a16b-d9ddd24ecce7.png" width="800px" />
 </div>

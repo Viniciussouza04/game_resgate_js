@@ -7,6 +7,12 @@
 
 <br/>
 
+##### Bibliotecas Utilizadas:
+- Jquery
+- Js collision
+
+<br/>
+
 ## Imagens do jogo:
 
 <div align="center">
